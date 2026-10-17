@@ -37,9 +37,11 @@ miguel@marcelo:~$ _
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/clion/)
+
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-1a1b26?style=flat&logo=opencode&logoColor=7aa2f7)](https://opencode.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 <!-- Lista de ícones disponíveis: https://skillicons.dev -->
 
 ---
