@@ -77,7 +77,6 @@ Veja a seção abaixo 👇
 ## 📊 Estatísticas
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Miguel-Marcelo-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&hide_rank=true&include_all_commits=true&custom_title=Minhas%20Contribui%C3%A7%C3%B5es" alt="GitHub stats" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Marcelo-Oliveira&layout=compact&theme=tokyonight&hide_border=true" alt="Top linguagens" />
 
 <picture>
