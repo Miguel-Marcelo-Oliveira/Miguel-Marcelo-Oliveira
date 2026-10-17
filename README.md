@@ -69,7 +69,7 @@ Veja a seção abaixo 👇
 | **[Projeto Medallion](https://github.com/Miguel-Marcelo-Oliveira/azure-databricks-medallion-pipeline)** | Pipeline de engenharia de dados com arquitetura Medallion (Bronze, Silver, Gold) na nuvem | Azure, Databricks, PySpark                         |
 | **[SoccerRulesRAG](https://github.com/Miguel-Marcelo-Oliveira/SoccerRulesRAG)**                         | Chatbot RAG que responde dúvidas sobre as Regras do Jogo do futebol (IFAB)                | LangChain, ChromaDB, Cloudflare Workers AI, Ollama |
 | **[ChargeGrid AI Assistant](https://github.com/Miguel-Marcelo-Oliveira/Challenge_Sprint_02)**           | Chatbot de IA desenvolvido no Challenge FIAP em parceria com a GoodWe Brasil              | Python, LLMs                                       |
-| **[Datbase Artificial](https://github.com/Miguel-Marcelo-Oliveira/Database-artificial)**                | Scrpit Python que cria uma tabela Excel com dados sintéticos                              | Python, Pandas, NumPy                              |
+| **[Database Artificial](https://github.com/Miguel-Marcelo-Oliveira/Database-artificial)**                | Scrpit Python que cria uma tabela Excel com dados sintéticos                              | Python, Pandas, NumPy                              |
 
 --- 
 
