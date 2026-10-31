@@ -76,10 +76,9 @@ Veja a seção abaixo 👇
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Miguel-Marcelo-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&hide_rank=true&include_all_commits=true&custom_title=Minhas%20Contribui%C3%A7%C3%B5es" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Marcelo-Oliveira&layout=compact&theme=tokyonight&hide_border=true" alt="Top linguagens" />
+  <img height="170" src="https://raw.githubusercontent.com/Miguel-Marcelo-Oliveira/Miguel-Marcelo-Oliveira/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Miguel-Marcelo-Oliveira/Miguel-Marcelo-Oliveira/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top linguagens" />
 </p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel-Marcelo-Oliveira/Miguel-Marcelo-Oliveira/output/github-contribution-grid-snake-dark.svg" />
